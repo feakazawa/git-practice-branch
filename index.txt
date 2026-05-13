@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-MY HEADER - by Sae
-=======
 HEADER
->>>>>>> header
 
 The quick brown fox jumps over the lazy dog!
