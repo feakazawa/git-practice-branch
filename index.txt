@@ -2,4 +2,4 @@ COOL HEADER
 
 The quick brown fox jumps over the lazy dog!
 
-COOL FOOTER
+Copyright 2026. All rights reserved.
